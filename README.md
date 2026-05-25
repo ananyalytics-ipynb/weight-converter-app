@@ -22,7 +22,7 @@ A simple weight conversion web app built using Python and Gradio in Google Colab
 
 ## Screenshot
 
-<img width="1000" alt="App Screenshot" src="YOUR_IMAGE_LINK_HERE">
+<img width="1000" alt="App Screenshot" src="https://github.com/ananyalytics-ipynb/weight-converter-app/blob/main/weight.png">
 
 ---
 
